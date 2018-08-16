@@ -34,7 +34,7 @@ Visual studio compilation please follow the following link:
 
 ## 1. Clone repository
 
-git clone 
+git clone https://github.com/agusorte/runner
 
 
 ## 2. Compilation
