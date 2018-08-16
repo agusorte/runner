@@ -19,6 +19,10 @@ words alphabetically.
 this code was implemented in c++ under ubuntu using c++11 and standard library, the code is not using vstudio but it is easily compiling using directly g++ or cmake.
 
 	g++ runner.cpp -o runner
+	
+Visual studio compilation please follow the following link:
+
+	https://blogs.msdn.microsoft.com/vcblog/2016/10/05/cmake-support-in-visual-studio/
 
 
 ## Dependences
